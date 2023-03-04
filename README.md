@@ -1,7 +1,5 @@
-
-<div align="center">  
 ![Ezequiel Bugnon, software engineer](https://github.com/ezequielbugnon/ezequielbugnon/blob/main/assets/header.jpg)
-</div>
+
 
 - :boy: I'm a software engineer, and and lover of traveling around the world.
 - 🌱 I’m currently learning Data Science and languages while sharpening my skills in GO, JavaScript, React and Flutter. 
