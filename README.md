@@ -1,5 +1,5 @@
 
-![Ezequiel Bugnon, software engineer](https://github.com/ezequielbugnon/ezequielbugnon/assets/header.jpg)
+![Ezequiel Bugnon, software engineer](https://github.com/ezequielbugnon/ezequielbugnon/blob/main/assets/header.jpg)
 
 
 - :boy: I'm a software engineer, and and lover of traveling around the world.
