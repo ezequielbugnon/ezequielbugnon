@@ -1,6 +1,8 @@
-[//]:![Ezequiel Bugnon, software engineer](https://github.com/ezequielbugnon/ezequielbugnon/blob/main/assets/header.jpg)
+[comment]: <> ![Ezequiel Bugnon, software engineer] (https://github.com/ezequielbugnon/ezequielbugnon/blob/main/assets/header.jpg)
 
-<div style="text-align:center"><img src="https://github.com/ezequielbugnon/ezequielbugnon/blob/main/assets/header.jpg"  alt="Ezequiel Bugnon"/></div>.
+<div style="text-align:center" width="100%">
+    <img src="https://github.com/ezequielbugnon/ezequielbugnon/blob/main/assets/header.jpg"  alt="Ezequiel Bugnon"/>
+</div>
 
 
 - :boy: I'm a software engineer, and and lover of traveling around the world.
@@ -10,8 +12,8 @@
 <br/>
 
 
-[//]:![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=ezequielbugnon&show_icons=true&theme=radical)
-[//]:![github stats](https://github-readme-stats.vercel.app/api?username=ezequielbugnon&show_icons=true&theme=radical)
+[comment]: <> ![top-langs] (https://github-readme-stats.vercel.app/api/top-langs?username=ezequielbugnon&show_icons=true&theme=radical)
+[comment]: <> ![github stats] (https://github-readme-stats.vercel.app/api?username=ezequielbugnon&show_icons=true&theme=radical)
 
 <br/>
 <br/>
