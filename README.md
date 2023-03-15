@@ -1,8 +1,6 @@
-[comment]: <> ![Ezequiel Bugnon, software engineer] (https://github.com/ezequielbugnon/ezequielbugnon/blob/main/assets/header.jpg)
-
-<div style="text-align:center" width="100%">
-    <img src="https://github.com/ezequielbugnon/ezequielbugnon/blob/main/assets/header.jpg"  alt="Ezequiel Bugnon"/>
-</div>
+<p align="center" width="100%">
+    <img src="https://github.com/ezequielbugnon/ezequielbugnon/blob/main/assets/header.jpg"  alt="Ezequiel Bugnon" width="100%"/>
+</p>
 
 
 - :boy: I'm a software engineer, and and lover of traveling around the world.
@@ -10,10 +8,6 @@
 - 📫 How to reach me: ezequielbugnon@gmail.com || [Dev Portfolio](https://github.com/ezequielbugnon/) 
 
 <br/>
-
-
-[comment]: <> ![top-langs] (https://github-readme-stats.vercel.app/api/top-langs?username=ezequielbugnon&show_icons=true&theme=radical)
-[comment]: <> ![github stats] (https://github-readme-stats.vercel.app/api?username=ezequielbugnon&show_icons=true&theme=radical)
 
 <br/>
 <br/>
