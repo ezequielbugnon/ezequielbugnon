@@ -3,6 +3,23 @@
 </p>
 
 
+<br/>
+<br/>
+
+
+## Stats
+
+<!-- github stats -->
+[![Ezequiel github stats](https://github-readme-stats.vercel.app/api?username=ezequielbugnon&count_private=true&show_icons=true&theme=vue)](https://github.com/ezequielbugnon/github-readme-stats) 
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
+</details>
+
+<br/>
+<br/>
+
+
+## About me
+
 - :boy: I'm a software engineer, and and lover of traveling around the world.
 - 🌱 I’m currently learning Data Science and languages while sharpening my skills in GO, JavaScript, React and Flutter. 
 - 📫 How to reach me: ezequielbugnon@gmail.com || [Dev Portfolio](https://github.com/ezequielbugnon/) 
