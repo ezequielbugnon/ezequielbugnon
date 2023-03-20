@@ -10,8 +10,10 @@
 ## Stats
 
 <!-- github stats -->
-[![Ezequiel github stats](https://github-readme-stats.vercel.app/api?username=ezequielbugnon&count_private=true&show_icons=true&theme=vue)](https://github.com/ezequielbugnon/github-readme-stats) 
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Ezequiel github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ezequielbugnon&count_private=true&show_icons=true&theme=vue)](https://github.com/ezequielbugnon/github-readme-stats) 
+
+
+
 </details>
 
 <br/>
