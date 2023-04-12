@@ -10,7 +10,7 @@
 ## Stats
 
 <!-- github stats -->
-[![Ezequiel github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ezequielbugnon&count_private=true&show_icons=true&theme=vue)](https://github.com/ezequielbugnon/github-readme-stats) 
+![Ezequiel github stats](https://github-readme-stats.vercel.app/api?username=ezequielbugnon&count_private=true&show_icons=true&theme=vue)
 
 
 
