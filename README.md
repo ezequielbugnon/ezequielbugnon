@@ -10,7 +10,7 @@
 ## Stats
 
 <!-- github stats -->
-![Ezequiel github stats](https://github-readme-stats.vercel.app/api?username=ezequielbugnon&count_private=true&show_icons=true&theme=vue)
+![Ezequiel github stats](https://github-readme-stats.vercel.app/api?username=ezequielbugnon&show_icons=true)
 
 
 
