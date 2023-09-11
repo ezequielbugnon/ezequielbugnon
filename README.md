@@ -7,13 +7,6 @@
 <br/>
 
 
-## Stats
-
-<!-- github stats -->
-![Ezequiel github stats](https://github-readme-stats.vercel.app/api?username=ezequielbugnon&show_icons=true)
-
-
-
 </details>
 
 <br/>
