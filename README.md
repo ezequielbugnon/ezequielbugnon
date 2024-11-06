@@ -16,7 +16,7 @@
 ## About me
 
 - :boy: I'm a software engineer, and and lover of traveling around the world.
-- 🌱 I’m currently learning Data Science and languages while sharpening my skills in GO, JavaScript.
+- 🌱 I’m currently working with GO, Rust and machine learning.
 - 📫 How to reach me: ezequielbugnon@gmail.com || [Dev Portfolio](https://github.com/ezequielbugnon/) 
 
 <br/>
