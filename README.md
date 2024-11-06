@@ -16,7 +16,7 @@
 ## About me
 
 - :boy: I'm a software engineer, and and lover of traveling around the world.
-- 🌱 I’m currently learning Data Science and languages while sharpening my skills in GO, JavaScript, React and Flutter. 
+- 🌱 I’m currently learning Data Science and languages while sharpening my skills in GO, JavaScript.
 - 📫 How to reach me: ezequielbugnon@gmail.com || [Dev Portfolio](https://github.com/ezequielbugnon/) 
 
 <br/>
