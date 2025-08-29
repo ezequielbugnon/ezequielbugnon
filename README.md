@@ -17,8 +17,7 @@
 
 - :boy: I'm a software engineer, and and lover of traveling around the world.
 - 🌱 I’m currently working with GO, Rust and machine learning.
-- 📫 How to reach me: ezequielbugnon@gmail.com || [Dev Portfolio](https://github.com/ezequielbugnon/) 
-
+- 📫 How to reach me: ezequielbugnon@gmail.com
 <br/>
 
 <br/>
