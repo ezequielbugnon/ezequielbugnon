@@ -4,8 +4,6 @@
 🌎 Based in Brazil | 🇦🇷 Argentinian roots
 🚀 Focused on Systems, AI (LLMs) and Infrastructure
 
-[![Ezequiel Bugnon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequielbugnon&show_icons=true&count_private=true)](https://github.com/ezequielbugnon/github-readme-stats)
-
 ---
 
 ## 🧠 About me
