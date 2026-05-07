@@ -66,6 +66,11 @@ I enjoy building things from scratch — not just using tools, but understanding
 * ⚽ Boca Juniors fan
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ezequielbugnon&theme=tokyonight"/>
+</p>
 
 ## 📫 Connect with me
 
